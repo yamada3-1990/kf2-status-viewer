@@ -1,12 +1,15 @@
 # kf2-status-viewer
-Steam APIで取得できるKF2の統計情報を表示します。統計情報は合っているかわかりません。  
-ClaudeとGeminiが作りました  
-使用は自己責任でお願いします  
+Steam APIで取得できるKF2の統計情報を表示します  
+※統計情報は合っているかわかりません。  
+※ClaudeとGeminiが作りました  
+※使用は自己責任でお願いします  
 
 ## 必要なもの
 * Steam API キー
 * StreamID64
     * https://steamid.io/ で自分のsteam user pageのURLを入力すると取得できます
+* Steamプロフィールの公開
+    * Steamプロフィールの「ゲームの詳細」を非公開に設定している場合、APIでデータを取得できません
 
 
 ## 手順
