@@ -21,7 +21,8 @@ ClaudeとGeminiが作りました
 3. 自分の**StreamID64**を入力する
 
 ### colorful
-![alt text](image-2.png)
+![スクリーンショット 2025-07-09 213417](https://github.com/user-attachments/assets/5dc66fb4-58aa-4d5b-be7b-b05bf32b3812)
+
 
 ### simple
-![alt text](image-1.png)
+![スクリーンショット 2025-07-09 213354](https://github.com/user-attachments/assets/cc70ded2-18c1-4a69-80df-4c6cdee9e54c)
